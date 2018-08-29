@@ -1,8 +1,8 @@
 {
-  "name": "one-dark-transparent-ui",
+  "name": "transparent-ui",
   "theme": "ui",
   "version": "1.0.0",
-  "description": "Atom One dark Transparent UI theme",
+  "description": "Atom Transparent UI theme",
   "keywords": [
     "transparent",
     "dark",
@@ -10,7 +10,6 @@
     "ui"
   ],
   "license": "MIT",
-  "repository": "https://github.com/atom/one-dark-ui",
   "main": "lib/main",
   "engines": {
     "atom": ">0.40.0"
