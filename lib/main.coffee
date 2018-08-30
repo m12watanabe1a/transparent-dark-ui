@@ -1,5 +1,5 @@
 root = document.documentElement
-themeName = 'one-dark-ui'
+themeName = 'transparent-ui'
 
 
 module.exports =
