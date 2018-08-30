@@ -1,8 +1,8 @@
 {
-  "name": "transparent-ui",
+  "name": "transparent-dark-ui",
   "theme": "ui",
   "version": "1.0.0",
-  "description": "Atom Transparent UI theme",
+  "description": "Atom Transparent Dark UI theme",
   "keywords": [
     "transparent",
     "dark",

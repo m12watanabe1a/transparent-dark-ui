@@ -1,4 +1,4 @@
-## One Dark Trasnparent UI theme 
+## Trasnparent Dark UI theme 
 
 ### Install
 
